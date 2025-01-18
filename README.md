@@ -3,8 +3,8 @@ to login as admin you must login by:
     password: admin
 
 also 
-database is included next this file(the root folder 'blog3.sql')
-don't forget to import database blog3.sql into xampp
+database is included next this file(the root folder 'electronic_store.sql')
+don't forget to import database electronic_store.sql into xampp
 
 Thanks
 
