@@ -1,7 +1,7 @@
 <div id="app">
     <!-- header-section-starts -->
     <div class="header">
-        <div class="header-top-strip bg-gradient-yellow">
+        <div class="header-top-strip">
             <div class="container">
                 <div class="header-right">
                     <div class="cart box_1">
