@@ -1,0 +1,370 @@
+body {
+    /* margin-right: 123px; */
+    /* font-size: 16px;
+    font-size: 1rem;
+    font-weight: 550; */
+}
+
+.radiobox {
+    margin: 4px 27px 4px 10px;
+}
+
+.floatt {
+    float: left;
+}
+
+.text {
+    color: #191717;
+    text-align: center;
+    background-color: #cad2d1;
+}
+
+.btn-primar {
+    background-color: #2711f3;
+    border-radius: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #8079c4;
+}
+
+.rows {
+    color: rgb(8, 2, 2);
+    size: 25px;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.card {
+    margin-top: 16px;
+    border: 1px solid rgb(21, 24, 182);
+    border-radius: 10px;
+}
+
+.form label {
+    color: rgb(15, 17, 19);
+    size: 26px;
+}
+
+.card-body {
+    padding: 1px 1px 1px 1px;
+}
+
+.add {
+    margin: 8px;
+}
+
+.img-users {
+    margin-left: 15px;
+    width: 40px;
+    height: 37px;
+    float: right;
+    border-radius: 15px;
+}
+
+.profile-img {
+    height: 150px;
+}
+
+.profile-img2 {
+    height: 50px;
+}
+
+.custom-hr {
+    border-top: 1px solid #8b8787;
+}
+
+.add-user {
+    margin-bottom: 17px;
+}
+
+.notify-success,
+.add-supervisor,
+.notify-error {
+    margin: 3px 10px 3px 10px;
+}
+
+table tr td,
+tr th {
+    text-align: center;
+    margin: 10px 2px 10px 2px;
+}
+
+.user-name {
+    text-align: right;
+}
+
+.section {
+    width: 900px;
+    margin-top: 16px;
+}
+
+.margin-top {
+    margin-top: 30px;
+}
+
+.title-card {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.khalil {
+    border: 1px solid rgb(214, 216, 217);
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    /* border:1px solid rgb(21, 24, 182);
+    border-radius: 10px; */
+}
+
+.khalil .card-body .imp-points {
+    margin-top: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.question-border {
+    border: 1px solid rgb(13, 224, 231);
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #eae9f1;
+}
+
+.line {
+    height: 1px;
+    background-color: rgb(13, 224, 231);
+}
+
+.shift {
+    margin-right: 20px;
+}
+
+.margin p {
+    margin-top: -8px;
+}
+
+.result {
+    background-color: #a4c0dd;
+    padding: 0px 10px 0px 10px;
+    margin: 0px 13px 10px 30px;
+    border: 1px solid rgb(5, 9, 250);
+    border-radius: 10px;
+}
+
+.container-list {
+    border: 2px solid #ccc;
+    /* width:300px;  */
+    height: 100px;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+.manage-reserve {
+    margin-left: 15px;
+}
+
+
+/*------------------------ Start popForm -------------------------*/
+
+
+/* .formPopup {
+    display: none;
+    position: fixed;
+    top: 10%;
+    border: 3px solid #999999;
+    border-radius: 10px;
+    z-index: 9;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.formPopup .card {
+    margin-top: 0px;
+    margin-bottom: 0px;
+} */
+
+
+/*------------------------ End popForm -------------------------*/
+
+.ScrollStyle {
+    max-height: 500px;
+    overflow: auto;
+}
+
+.col-box {
+    background-color: #fbfbfb;
+    margin: 10px;
+    padding: 10px;
+}
+
+.rectangle-img {
+    margin: 10px;
+    width: 300px;
+    height: 150px;
+    display: block;
+}
+
+.refresh-tree {
+    padding: 10px;
+}
+
+.refresh-tree h5 {
+    margin-left: 10px;
+}
+
+#create-account-chkbox {
+    margin-top: 40px;
+}
+
+.my-wrapper {
+    position: relative;
+    background-color: #e9ecee;
+    padding: 20px;
+    min-height: 80vh;
+}
+
+.item-description {
+    white-space: pre-wrap;
+}
+
+
+/*------------------------------------ bootstrap -------------------------------------------*/
+
+
+/* ----------------------- */
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+}
+
+.dropdown-menu.pull-right {
+    right: 0;
+    left: auto;
+}
+
+.dropdown-menu .divider {
+    height: 1px;
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: #e5e5e5;
+}
+
+.dropdown-menu>li>a {
+    display: block;
+    padding: 3px 20px;
+    /* clear: both; */
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+}
+
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover {
+    color: #262626;
+    text-decoration: none;
+    background-color: #f5f5f5;
+}
+
+.dropdown-menu>.active>a,
+.dropdown-menu>.active>a:focus,
+.dropdown-menu>.active>a:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #337ab7;
+    outline: 0;
+}
+
+.dropdown-menu>.disabled>a,
+.dropdown-menu>.disabled>a:focus,
+.dropdown-menu>.disabled>a:hover {
+    color: #777;
+}
+
+.dropdown-menu>.disabled>a:focus,
+.dropdown-menu>.disabled>a:hover {
+    text-decoration: none;
+    cursor: not-allowed;
+    background-color: transparent;
+    background-image: none;
+    filter: progid: DXImageTransform.Microsoft.gradient(enabled=false);
+}
+
+.open>.dropdown-menu {
+    display: block;
+}
+
+.open>a {
+    outline: 0;
+}
+
+.dropdown-menu-right {
+    right: 0;
+    left: auto;
+}
+
+.dropdown-menu-left {
+    right: auto;
+    left: 0;
+}
+
+.dropup .dropdown-menu,
+.navbar-fixed-bottom .dropdown .dropdown-menu {
+    top: auto;
+    bottom: 100%;
+    margin-bottom: 2px;
+}
+
+@media (min-width: 768px) {
+    .navbar-right .dropdown-menu {
+        right: 0;
+        left: auto;
+    }
+    .navbar-right .dropdown-menu-left {
+        right: auto;
+        left: 0;
+    }
+}
+
+.navbar .navbar-nav li a:hover {
+    /* background-color: #c4bfbf!important; */
+    /* border: 1px solid #000;
+    border-radius: 4px; */
+}
+
+.event-buttons a {
+    margin: 0px 4px 0px 4px;
+}
+
+.product-price {
+    position: absolute;
+    background-color: #cbcbcb;
+    padding: 2px 8px;
+    top: 4px;
+    left: 20px;
+}
